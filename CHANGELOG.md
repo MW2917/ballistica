@@ -82,6 +82,7 @@
   efrocache when anything in the cache-map changed (which is the case for most
   commits). Please holler if you are still seeing lots more 'Extracting:' lines
   when running builds after pulling small updates from git.
+- There's now a new arguement `default_hitpoints` for hitpoints of a spaz for easier modding. (Thanks rabbitboom!)
   
 ### 1.7.34 (build 21823, api 8, 2024-04-26)
 - Bumped Python version from 3.11 to 3.12 for all builds and project tools. One
